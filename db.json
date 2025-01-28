@@ -1,0 +1,92 @@
+[
+  {
+    "companyName": "Company 1",
+    "departments": [
+      {
+        "departmentName": "Department 1",
+        "teams": [
+          {
+            "teamName": "Team 1",
+            "employees": [
+              {
+                "id": 111,
+                "name": "David Rodriguez",
+                "role": "Graphic Designer"
+              },
+              {
+                "id": 112,
+                "name": "Quinn Martinez",
+                "role": "Help Desk Associate"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "departmentName": "Department 2",
+        "teams": [
+          {
+            "teamName": "Team 1",
+            "employees": [
+              {
+                "id": 211,
+                "name": "Ella Johnson",
+                "role": "Account Manager"
+              },
+              {
+                "id": 212,
+                "name": "Sam Gonzalez",
+                "role": "Customer Service Rep"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyName": "Company 2",
+    "departments": [
+      {
+        "departmentName": "Department 1",
+        "teams": [
+          {
+            "teamName": "Team 1",
+            "employees": [
+              {
+                "id": 111,
+                "name": "Alice Hernandez",
+                "role": "Customer Service Rep"
+              },
+              {
+                "id": 112,
+                "name": "Alice Wilson",
+                "role": "Database Administrator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "departmentName": "Department 2",
+        "teams": [
+          {
+            "teamName": "Team 1",
+            "employees": [
+              {
+                "id": 211,
+                "name": "Charlie Lopez",
+                "role": "Account Manager"
+              },
+              {
+                "id": 212,
+                "name": "Kate Williams",
+                "role": "UI/UX Designer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
